@@ -1,0 +1,19 @@
+body{
+    background-color: #EBC7E6;
+}
+p{
+  font-size: 1rem;
+}
+.first{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+}
+.Btn{
+    width: 10%; 
+    margin:auto;
+}
+#quotedisplay{
+  font-size: 2.5rem;
+}
